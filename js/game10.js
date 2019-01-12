@@ -179,9 +179,9 @@ gameScene1.preload = function(){
     this.load.image('player', 'assets/player.png');
     this.load.image('tower', 'assets/CircleTower.png');
     this.load.image('tower2', 'assets/SquareTower.png');
-    this.load.image('bullet', 'assets/bullet.png');
+    this.load.image('bullet', 'assets/Bullet.png');
     this.load.image('bomb', 'assets/Bomb.png');
-    this.load.image('background', 'assets/background3.png');
+    this.load.image('background', 'assets/Background3.png');
     this.load.image('border', 'assets/border.png');
     this.load.image('range', 'assets/Range.png');
     this.load.image('strawberry', 'assets/strawberry.png');
@@ -330,9 +330,9 @@ gameScene2.preload = function(){
     this.load.image('player', 'assets/player.png');
     this.load.image('tower', 'assets/CircleTower.png');
     this.load.image('tower2', 'assets/SquareTower.png');
-    this.load.image('bullet', 'assets/bullet.png');
+    this.load.image('bullet', 'assets/Bullet.png');
     this.load.image('bomb', 'assets/Bomb.png');
-    this.load.image('background', 'assets/background3.png');
+    this.load.image('background', 'assets/Background3.png');
     this.load.image('border', 'assets/border.png');
     this.load.image('range', 'assets/Range.png');
     this.load.image('strawberry', 'assets/strawberry.png');
@@ -462,9 +462,9 @@ gameScene3.preload = function(){
     this.load.image('player', 'assets/player.png');
     this.load.image('tower', 'assets/CircleTower.png');
     this.load.image('tower2', 'assets/SquareTower.png');
-    this.load.image('bullet', 'assets/bullet.png');
+    this.load.image('bullet', 'assets/Bullet.png');
     this.load.image('bomb', 'assets/Bomb.png');
-    this.load.image('background', 'assets/background3.png');
+    this.load.image('background', 'assets/Background3.png');
     this.load.image('border', 'assets/border.png');
     this.load.image('range', 'assets/Range.png');
     this.load.image('strawberry', 'assets/strawberry.png');
